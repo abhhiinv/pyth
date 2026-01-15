@@ -1,4 +1,4 @@
-n = 5 # Number of rows
+n = 10 # Number of rows
 for i in range(n):
     # 1. Print Spaces: n - i - 1 spaces
     for j in range(n - i - 1):
